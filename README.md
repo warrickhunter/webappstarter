@@ -1,4 +1,4 @@
-Yondo Conference
+Web App Starter
 ----------------
 
 
