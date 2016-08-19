@@ -1,0 +1,13 @@
+{
+  "name": "yondo-conference",
+  "description": "Live conference system for the Yondo platform.",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
